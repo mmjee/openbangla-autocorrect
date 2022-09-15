@@ -1,3 +1,1 @@
-# openbangla-autocorrect
-
-OpenBangla autocorrect dictionary customized for my use
+A customized OpenBangla autocorrect dictionary tuned to my usage.
